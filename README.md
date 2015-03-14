@@ -2,6 +2,8 @@
 
 A Ruby gem for parsing humans.txt files
 
+[![Build Status](https://travis-ci.org/benbalter/humans.rb.svg)](https://travis-ci.org/benbalter/humans.rb)
+
 ## Installation
 
 1. Add `gem 'humans-rb'` to your project's Gemfile
