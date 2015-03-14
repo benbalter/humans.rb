@@ -1,0 +1,12 @@
+/* SITE */
+Last Updated: 2015/03/12
+Standards: HTML5, CSS3
+Components: jekyll, jekyll-coffeescript, jekyll-sass-converter, kramdown, maruku, rdiscount, redcarpet, RedCloth, liquid, pygments.rb, jemoji, jekyll-mentions, jekyll-redirect-from, jekyll-sitemap, github-pages, ruby
+
+/* TEAM */
+
+Name: benbalter
+Site: https://github.com/benbalter
+
+Name: balterbot
+Site: https://github.com/balterbot
