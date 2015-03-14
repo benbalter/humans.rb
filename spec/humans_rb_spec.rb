@@ -19,7 +19,6 @@ describe "humans.rb" do
 
   it "should return headings" do
     output = @humans.parse
-    puts output.inspect
     expect(output.count).to eql(2)
   end
 end

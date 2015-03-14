@@ -11,6 +11,7 @@ class HumansRb
 
   def body
     if @url_or_string =~ /^http/
+      @url_or_string << "/humans.txt" if !(@url_or_string =~ /humans\.txt$/)
       @url_or_string = Typhoeus.get(@url_or_string, accept_encoding: "gzip").body
     else
       @url_or_string

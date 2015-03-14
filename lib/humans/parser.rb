@@ -1,22 +1,31 @@
 class HumansRb::Parser < Parslet::Parser
-    rule(:space)      { match("\s") }
-    rule(:space?)     { space.maybe }
+    rule(:space)       { str(" ") }
+    rule(:space?)      { space.repeat }
+    rule(:tab)         { match("[\t]").repeat(1) }
+    rule(:tab?)        { match("[\t]").repeat }
+    rule(:whitespace)  { (space | tab).repeat(1) }
+    rule(:whitespace?) { (space | tab).repeat }
 
-    rule(:newline)  { match("\n") }
+    rule(:newline)  { match("[\n]") >> whitespace? }
     rule(:newline?) { newline.maybe }
 
     rule(:slash_star) { str("/*") }
     rule(:star_slash) { str("*/") }
     rule(:heading_name) { newline.absent? >> space.absent? >> match("[A-Z]").repeat(1) }
-    rule(:heading) { slash_star >> space >> heading_name.as(:heading) >> space >> star_slash }
+    rule(:heading) { slash_star >> space >> heading_name.as(:heading) >> space >> star_slash >> newline }
 
     rule(:colon) { str(":") }
-    rule(:key) { newline.absent? >> match("[^:]").repeat.as(:key) >> colon }
-    rule(:value) { newline.absent? >> match("[^\n]").repeat }
-    rule(:key_value_pair) { newline? >> key >> space >> value.as(:value) >> newline? }
+    rule(:key) { slash_star.absent? >> newline.absent? >> match("[^:\n]").repeat.as(:key) >> colon }
+    rule(:value) { newline.absent? >> match("[^\n]").repeat.as(:value) }
+    rule(:key_value_pair) { whitespace? >> key >> space >> value >> newline }
+    rule(:key_value_pairs) { key_value_pair.repeat(1).as(:values) }
 
-    rule(:section) { newline? >> heading >> newline >> newline? >> key_value_pair.repeat.as(:values) }
-    rule(:document) { section.repeat }
+    rule(:name) { slash_star.absent? >> match("[^\t\n:]").repeat(1).as(:name) >> newline }
+    rule(:team_member) { whitespace? >> name.maybe >> key_value_pair.repeat(1) >> newline? >> newline? }
+    rule(:team_members) { team_member.as(:member).repeat(1).as(:members) }
+
+    rule(:section) { heading >> newline? >> (team_members | key_value_pairs) >> newline? }
+    rule(:document) { section.repeat(1) }
 
     root :document
 end
