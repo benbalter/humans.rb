@@ -1,0 +1,3 @@
+set -e
+bundle exec rake spec
+gem build humans_rb.gemspec
