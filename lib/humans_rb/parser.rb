@@ -18,7 +18,7 @@ class HumansRb
     rule(:colon) { str(":") }
     rule(:key) { slash_star.absent? >> newline.absent? >> match("[^:\n]").repeat.as(:key) >> colon }
     rule(:value) { newline.absent? >> match("[^\n]").repeat.as(:value) }
-    rule(:key_value_pair) { whitespace? >> key >> space >> value >> newline }
+    rule(:key_value_pair) { whitespace? >> key >> space? >> value >> newline }
     rule(:key_value_pairs) { key_value_pair.repeat(1).as(:values) }
 
     rule(:name) { slash_star.absent? >> match("[^\t\n:]").repeat(1).as(:name) >> newline }

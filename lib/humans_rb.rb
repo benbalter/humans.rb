@@ -10,18 +10,26 @@ class HumansRb
   end
 
   def body
-    @body ||= if @url_or_string =~ /^http/
+    if @url_or_string =~ /^http/
       @url_or_string << "/humans.txt" if !(@url_or_string =~ /humans\.txt$/)
-      @url_or_string = Typhoeus.get(@url_or_string, accept_encoding: "gzip").body.
-      encode('UTF-8', {:invalid => :replace, :undef => :replace, :replace => '?'})
-    else
-      @url_or_string.encode('UTF-8', {:invalid => :replace, :undef => :replace, :replace => '?'})
+      @url_or_string = Typhoeus.get(@url_or_string, accept_encoding: "gzip").body
     end
+
+    normalize_string(@url_or_string)
   end
 
   def parse
     Transform.new.apply(Parser.new.parse(body))
   rescue Parslet::ParseFailed => failure
     puts failure.cause.ascii_tree
+  end
+
+  private
+
+  def normalize_string(string)
+    string = string.force_encoding("UTF-8")
+    string = string.encode("UTF-8", :invalid => :replace, :replace => "")
+    string = string.gsub(/^\uFEFF/, "")
+    string << "\n"
   end
 end
