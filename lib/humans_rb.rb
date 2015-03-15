@@ -1,7 +1,8 @@
 require 'typhoeus'
 require 'parslet'
-require "humans_rb/parser"
-require "humans_rb/transform"
+require_relative "humans_rb/version"
+require_relative "humans_rb/parser"
+require_relative "humans_rb/transform"
 
 class HumansRb
   def initialize(url_or_string)

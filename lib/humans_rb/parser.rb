@@ -1,4 +1,5 @@
-class HumansRb::Parser < Parslet::Parser
+class HumansRb
+  class Parser < Parslet::Parser
     rule(:space)       { str(" ") }
     rule(:space?)      { space.repeat }
     rule(:tab)         { match("[\t]").repeat(1) }
@@ -28,4 +29,5 @@ class HumansRb::Parser < Parslet::Parser
     rule(:document) { section.repeat(1).as(:sections) }
 
     root :document
+  end
 end
