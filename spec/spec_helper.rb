@@ -6,7 +6,7 @@ $:.push File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'webmock/rspec'
 
-require_relative "../lib/humans"
+require_relative "../lib/humans_rb"
 
 WebMock.disable_net_connect!
 
