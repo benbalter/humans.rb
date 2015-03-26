@@ -27,4 +27,10 @@ describe "humans.rb" do
     expect(humans).to_not be_nil
     expect(humans[:team]).to_not be_nil
   end
+
+  it "should parse the GitHub's humans.txt file" do
+    humans = HumansRb.new(load_fixture("github-humans.txt")).parse
+    expect(humans).to_not be_nil
+    expect(humans[:team]).to_not be_nil
+  end
 end
