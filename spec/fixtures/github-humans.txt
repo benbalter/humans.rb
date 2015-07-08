@@ -24,10 +24,6 @@
   Site: https://github.com/technoweenie
   Location: Louisville, CO
 
-  Name: Corey Donohoe
-  Site: https://github.com/atmos
-  Location: Potrero, SF
-
   Name: Tim Sharpe
   Site: https://github.com/rodjek
   Location: Melbourne
@@ -112,13 +108,9 @@
   Site: https://github.com/Caged
   Location: Portland, OR
 
-  Name: Sonya Green
-  Site: https://github.com/sundaykofax
-
-
   Name: Lee Reilly
   Site: https://github.com/leereilly
-  Location: San Francisco, CA
+  Location: Currently on paternity leave
 
   Name: Jake Boxer
   Site: https://github.com/jakeboxer
@@ -151,10 +143,6 @@
   Name: Nathan Sobo
   Site: https://github.com/nathansobo
   Location: Boulder, CO
-
-  Name: Russell Belfer
-  Site: https://github.com/arrbee
-  Location: San Francisco, CA
 
   Name: Jake Douglas
   Site: https://github.com/jakedouglas
@@ -266,7 +254,7 @@
 
   Name: Ted Nyman
   Site: https://github.com/tnm
-  Location: California
+  Location: SF
 
   Name: Yossef Mendelssohn
   Site: https://github.com/ymendel
@@ -278,11 +266,7 @@
 
   Name: Luke Hefson
   Site: https://github.com/lukehefson
-  Location: Brighton, UK
-
-  Name: Justin Spahr-Summers
-  Site: https://github.com/jspahrsummers
-  Location: San Francisco, CA
+  Location: Shoreham-by-Sea, UK
 
   Name: Jerry Cheung
   Site: https://github.com/jch
@@ -326,7 +310,7 @@
 
   Name: Jared Pace
   Site: https://github.com/jdpace
-  Location: Portland, OR
+  Location: Charlotte, NC
 
   Name: James Kang
   Site: https://github.com/jeejkang
@@ -362,7 +346,7 @@
 
   Name: Andy Delcambre
   Site: https://github.com/adelcambre
-  Location: San Francisco, CA
+  Location: Boulder, CO
 
   Name: Craig
   Site: https://github.com/craigreyes
@@ -372,7 +356,7 @@
   Site: https://github.com/fooforge
   Location: Berlin, Germany
 
-  Name: Elizabeth Naramore
+  Name: Elizabeth Naramore Barron
   Site: https://github.com/ElizabethN
   Location: Cincinnati, Ohio
 
@@ -387,10 +371,6 @@
   Name: Julio Avalos
   Site: https://github.com/hoolio
   Location: San Francisco
-
-  Name: Sara
-  Site: https://github.com/sarapyle
-
 
   Name: Sparks
   Site: https://github.com/ScarlettSparks
@@ -471,14 +451,6 @@
   Name: Patrick Reynolds
   Site: https://github.com/piki
   Location: Pensacola, FL
-
-  Name: Dietrich Featherston
-  Site: https://github.com/d2fn
-  Location: Oakland
-
-  Name: Kelly Shearon
-  Site: https://github.com/kcshearon
-  Location: San Francisco, CA
 
   Name: Scott Buxton
   Site: https://github.com/scottbuxton
@@ -562,15 +534,11 @@
 
   Name: Brandon Ferguson
   Site: https://github.com/bnferguson
-
+  Location: Amsterdam
 
   Name: Mu-An
   Site: https://github.com/muan
   Location: Taipei, Taiwan
-
-  Name: Reg Braithwaite
-  Site: https://github.com/raganwald
-  Location: Toronto, Canada
 
   Name: Brendan Forster
   Site: https://github.com/shiftkey
@@ -578,7 +546,7 @@
 
   Name: Nikki Everett
   Site: https://github.com/neverett
-  Location: Chicago, IL
+  Location: San Francisco Bay Area
 
   Name: Ivan Žužak
   Site: https://github.com/izuzak
@@ -614,7 +582,7 @@
 
   Name: Emily Gould
   Site: https://github.com/emilyistoofunky
-  Location: Dallas, TX
+
 
   Name: Chris Rathjen
   Site: https://github.com/rathjenc
@@ -688,10 +656,6 @@
   Site: https://github.com/bernars
   Location: United States
 
-  Name: Steve Krause
-  Site: https://github.com/stevekrause
-  Location: Mountain View, CA
-
   Name: Ben Ogle
   Site: https://github.com/benogle
 
@@ -718,7 +682,7 @@
 
   Name: Jess Hosman
   Site: https://github.com/jhosman
-
+  Location: Austin, TX
 
   Name: John Madrid
   Site: https://github.com/madrid
@@ -762,7 +726,7 @@
 
   Name: Devin Reams
   Site: https://github.com/devinreams
-  Location: Portland, ME
+  Location: Denver, CO
 
   Name: Emily Nakashima
   Site: https://github.com/eanakashima
@@ -928,10 +892,6 @@
   Site: https://github.com/HollyTuray
   Location: San Francisco
 
-  Name: Jason McAllister
-  Site: https://github.com/oc1jason
-  Location: Austin, TX
-
   Name: Brandon O'Sullivan
   Site: https://github.com/boshub
   Location: San Francisco
@@ -994,7 +954,7 @@
 
   Name: Allen Smith
   Site: https://github.com/loranallensmith
-  Location: Nashville, TN
+  Location: Charlotte, NC
 
   Name: Elizabeth Pemmerl
   Site: https://github.com/epemmerl
@@ -1009,7 +969,7 @@
 
 
   Name: Patrick McKenna
-  Site: https://github.com/PatrickBM
+  Site: https://github.com/patrickmckenna
 
 
   Name: Lindsay St John
@@ -1076,17 +1036,221 @@
   Site: https://github.com/maggie1000
   Location: San Francisco, CA
 
+  Name: Ryan Parks
   Site: https://github.com/fatcomma
-
+  Location: San Francisco, CA
 
   Name: Nathan Henderson
   Site: https://github.com/nathos
-  Location: Rochester, NY
+  Location: Brooklyn, NY
 
   Name: Stephanie Wills
   Site: https://github.com/stephbwills
   Location: Brooklyn, NY
 
-  Name: Elizabeth
+  Name: Elizabeth McGrew
   Site: https://github.com/emcgrew
   Location: New Mexico
+
+  Name: Bryan Byrne
+  Site: https://github.com/irishbryan
+  Location: San Francisco
+
+  Name: Theo Julienne
+  Site: https://github.com/theojulienne
+  Location: San Francisco, CA
+
+  Name: Dennie Bates
+  Site: https://github.com/dennie
+  Location: San Francisco, United States
+
+  Name: Dave Sims
+  Site: https://github.com/davesims
+  Location: Denton, Tx
+
+  Name: Jeanine Abramson
+  Site: https://github.com/Neeners
+
+
+  Name: Padma
+  Site: https://github.com/padma007
+  Location: San Francisco
+
+  Name: Julian Astri
+  Site: https://github.com/jastri
+
+
+  Name: Bill Bowles
+  Site: https://github.com/mynameisbill
+  Location: United States
+
+  Name: Tiffany
+  Site: https://github.com/tiffmarie
+
+
+  Name: Craig Steinberger
+  Site: https://github.com/cjs
+  Location: Fairport, NY
+
+  Name: John Rasch
+  Site: https://github.com/raschman
+  Location: Dallas, Texas USA
+
+  Name: Tanner Hogan
+  Site: https://github.com/githogan
+  Location: San Francisco, CA
+
+  Name: Aaron Brown
+  Site: https://github.com/toomanyaaronbrowns
+  Location: Portland, Oregon
+
+  Name: Shannon Hines
+  Site: https://github.com/shannonhines
+  Location: San Francisco
+
+  Name: Annie Herlitz
+  Site: https://github.com/annieherlitz
+
+
+  Name: Nicole Sanchez
+  Site: https://github.com/nmsanchez
+  Location: United States
+
+  Name: Rachel Berry
+  Site: https://github.com/cmrberry
+  Location: Los Angeles, CA
+
+  Name: Alain Hélaïli
+  Site: https://github.com/helaili
+  Location: Paris
+
+  Name: Lily Navabpour
+  Site: https://github.com/happylil3
+  Location: San Francisco, CA
+
+  Name: John Moll
+  Site: https://github.com/jemoll
+  Location: Nashville, TN
+
+  Name: Willem van der Mark
+  Site: https://github.com/willemvandermark
+  Location: Amsterdam
+
+  Name: Sam Shiah
+  Site: https://github.com/samshiah
+  Location: San Francisco, CA
+
+  Name: Lucia Escanellas
+  Site: https://github.com/raviolicode
+  Location: Amsterdam, Netherlands
+
+  Name: Jamie Jones
+  Site: https://github.com/jbjonesjr
+  Location: Alexandria, Va
+
+  Name: Eric Hensley
+  Site: https://github.com/ehensley
+  Location: Indianapolis, IN
+
+  Name: Anais Gonzalez
+  Site: https://github.com/anaisFTW
+  Location: United States
+
+  Name: Brooke Roundy
+  Site: https://github.com/brookienoodle
+
+
+  Name: Jamie Kite
+  Site: https://github.com/jgkite
+  Location: Durham, NC
+
+  Name: Amy Truong
+  Site: https://github.com/amytruong
+  Location: San Francisco, CA
+
+  Name: Chris Long
+  Site: https://github.com/chrisalong
+  Location: Saint Louis, MO
+
+  Name: Takafumi Ikeda
+  Site: https://github.com/ikeike443
+  Location: Tokyo
+
+  Name: Kai Hilton-Jones
+  Site: https://github.com/kaihj
+  Location: Reading, UK
+
+  Name: Rocio Delgado
+  Site: https://github.com/rocio
+  Location: New York
+
+  Name: Megan Lefever
+  Site: https://github.com/meganlefever
+  Location: United States
+
+  Name: Kyle Macey
+  Site: https://github.com/kylemacey
+  Location: Rochester, NY
+
+  Name: Amanda Gelender
+  Site: https://github.com/agelender
+  Location: Bay Area
+
+  Name: Carolyn Shin
+  Site: https://github.com/carolynshin
+
+
+  Name: Vitor Monteiro
+  Site: https://github.com/bitoiu
+  Location: London
+
+  Name: Katelyn Bryant
+  Site: https://github.com/katelynbryant
+  Location: San Francisco
+
+  Name: Bianca Escalante
+  Site: https://github.com/bescalante
+  Location: San Francisco
+
+  Name: Christopher Pirigyi
+  Site: https://github.com/cpirigyi
+
+
+  Name: Jonah Berquist
+  Site: https://github.com/jonahberquist
+
+
+  Name: Cory Vander Jagt
+  Site: https://github.com/coryvj
+  Location: San Francisco
+
+
+  Site: https://github.com/MaryWheeler
+
+
+
+  Site: https://github.com/kluczenk
+
+
+  Name: Kim Sekulich
+  Site: https://github.com/ksekulio
+  Location: Chicago
+
+  Name: Daniela Quintanilla
+  Site: https://github.com/dq-turtle
+  Location: San Francisco
+
+
+  Site: https://github.com/kjnovak
+
+
+  Name: courtland
+  Site: https://github.com/courtlandia
+
+
+
+  Site: https://github.com/mendyslaton
+
+
+  Name: Dan Wallace
+  Site: https://github.com/dewallace
