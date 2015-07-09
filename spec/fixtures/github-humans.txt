@@ -258,7 +258,7 @@
 
   Name: Yossef Mendelssohn
   Site: https://github.com/ymendel
-
+  
 
   Name: Derek Greentree
   Site: https://github.com/derekgr
@@ -290,7 +290,7 @@
 
   Name: Steve Ward
   Site: https://github.com/steveward
-
+  
 
   Name: Ben Lavender
   Site: https://github.com/bhuga
@@ -322,7 +322,7 @@
 
   Name: Aden Beihl
   Site: https://github.com/aden
-
+  
 
   Name: Alyson La
   Site: https://github.com/alysonla
@@ -350,7 +350,7 @@
 
   Name: Craig
   Site: https://github.com/craigreyes
-
+  
 
   Name: Mike Adolphs
   Site: https://github.com/fooforge
@@ -374,7 +374,7 @@
 
   Name: Sparks
   Site: https://github.com/ScarlettSparks
-
+  
 
   Name: Garen Torikian
   Site: https://github.com/gjtorikian
@@ -414,7 +414,7 @@
 
   Name: Matt Diephouse
   Site: https://github.com/mdiep
-
+  
 
   Name: Ben Balter
   Site: https://github.com/benbalter
@@ -454,7 +454,7 @@
 
   Name: Scott Buxton
   Site: https://github.com/scottbuxton
-
+  
 
   Name: Jessica Lord
   Site: https://github.com/jlord
@@ -514,7 +514,7 @@
 
   Name: Jon Simons
   Site: https://github.com/simonsj
-
+  
 
   Name: Charlie Somerville
   Site: https://github.com/charliesome
@@ -522,7 +522,7 @@
 
   Name: Greg Ose
   Site: https://github.com/gregose
-
+  
 
   Name: Fabian Perez
   Site: https://github.com/fabianperez
@@ -550,7 +550,7 @@
 
   Name: Ivan Žužak
   Site: https://github.com/izuzak
-
+  
 
   Name: Keith Duncan
   Site: https://github.com/keithduncan
@@ -570,7 +570,7 @@
 
   Name: Kelsey Schimmelman
   Site: https://github.com/kelseyschimm
-
+  
 
   Name: Tim Littlemore
   Site: https://github.com/tjl2
@@ -578,11 +578,11 @@
 
   Name: JD Maturen
   Site: https://github.com/jdmaturen
-
+  
 
   Name: Emily Gould
   Site: https://github.com/emilyistoofunky
-
+  
 
   Name: Chris Rathjen
   Site: https://github.com/rathjenc
@@ -618,15 +618,15 @@
 
   Name: Whitney Naquin
   Site: https://github.com/whitmonaq
-
+  
 
   Name: Haley Yoder
   Site: https://github.com/haleygirl
-
+  
 
   Name: Erica Anderson
   Site: https://github.com/eanderson
-
+  
 
   Name: Arfon Smith
   Site: https://github.com/arfon
@@ -650,7 +650,7 @@
 
   Name: Lisa Pearce
   Site: https://github.com/lisalou
-
+  
 
   Name: Sheri Bernard
   Site: https://github.com/bernars
@@ -658,7 +658,7 @@
 
   Name: Ben Ogle
   Site: https://github.com/benogle
-
+  
 
   Name: Matt Colyer
   Site: https://github.com/mcolyer
@@ -670,7 +670,7 @@
 
   Name: Pam Lama
   Site: https://github.com/pamboat
-
+  
 
   Name: John Yerhot
   Site: https://github.com/johnyerhot
@@ -710,11 +710,11 @@
 
   Name: David Ginsburg
   Site: https://github.com/davideg
-
+  
 
   Name: Daisuke Don Horie
   Site: https://github.com/dice
-
+  
 
   Name: Kate Guarente
   Site: https://github.com/kateguarente
@@ -722,7 +722,7 @@
 
   Name: Joe Wadcan
   Site: https://github.com/joewadcan
-
+  
 
   Name: Devin Reams
   Site: https://github.com/devinreams
@@ -762,7 +762,7 @@
 
   Name: Brittany Rinella
   Site: https://github.com/BrittRinella
-
+  
 
   Name: Brandi Firestine
   Site: https://github.com/bfire
@@ -782,7 +782,7 @@
 
   Name: Adam Zimman
   Site: https://github.com/azimman
-
+  
 
   Name: Nicci Ciranna
   Site: https://github.com/neechbomb
@@ -790,11 +790,11 @@
 
   Name: Zoe Weidenfeld
   Site: https://github.com/zoeweidz
+  
 
-
-  Name: Matt Hartley
+  Name: Matt Hartley 
   Site: https://github.com/mbhartley
-
+  
 
   Name: Arthur Chiu
   Site: https://github.com/achiu
@@ -846,7 +846,7 @@
 
   Name: Jeff Jones
   Site: https://github.com/jeffmjones
-
+  
 
   Name: Jim Hunnewell
   Site: https://github.com/jhunnewell
@@ -872,7 +872,7 @@
   Site: https://github.com/oreoshake
   Location: Orange County, CA
 
-  Name: Shanah Zilberkweit
+  Name: Shanah Zilberkweit 
   Site: https://github.com/ShanahZ
   Location: San Francisco
 
@@ -882,7 +882,7 @@
 
   Name: Vijay Nambiar
   Site: https://github.com/vjayn
-
+  
 
   Name: Cheng Zhao
   Site: https://github.com/zcbenz
@@ -892,13 +892,13 @@
   Site: https://github.com/HollyTuray
   Location: San Francisco
 
-  Name: Brandon O'Sullivan
+  Name: Brandon O'Sullivan 
   Site: https://github.com/boshub
-  Location: San Francisco
+  Location: San Francisco 
 
   Name: Merritt
   Site: https://github.com/merrittqa
-
+  
 
   Name: Max Brunsfeld
   Site: https://github.com/maxbrunsfeld
@@ -938,7 +938,7 @@
 
   Name: Taylor Grimes
   Site: https://github.com/tfgrimes
-
+  
 
   Name: Shikha Thakkar
   Site: https://github.com/ShikhaThakkar
@@ -966,19 +966,19 @@
 
   Name: Meena Polich
   Site: https://github.com/meentastic
-
+  
 
   Name: Patrick McKenna
   Site: https://github.com/patrickmckenna
-
+  
 
   Name: Lindsay St John
   Site: https://github.com/LindsaySJ
   Location: San Francisco, CA
 
-  Name: Tessa Wilder
+  Name: Tessa Wilder 
   Site: https://github.com/TessaGit
-  Location: Seattle, WA
+  Location: Seattle, WA 
 
   Name: Brenna Heaps
   Site: https://github.com/brennaheaps
@@ -992,13 +992,13 @@
   Site: https://github.com/tpigott
   Location: San Francisco
 
-  Name: Dustin Knievel
+  Name: Dustin Knievel 
   Site: https://github.com/evelDK
   Location: San Francisco
 
   Name: Traci Coffman
   Site: https://github.com/tracicakes
-
+  
 
   Name: Michelle Gagnon
   Site: https://github.com/michelle100
@@ -1026,11 +1026,11 @@
 
   Name: Nigel Abbott
   Site: https://github.com/nigelabbott
-
+  
 
   Name: Marko Berkovic
   Site: https://github.com/markostar
-  Location: Vienna / Austria / Europe / Earth /
+  Location: Vienna / Austria / Europe / Earth / 
 
   Name: Maggie Nelson
   Site: https://github.com/maggie1000
@@ -1070,7 +1070,7 @@
 
   Name: Jeanine Abramson
   Site: https://github.com/Neeners
-
+  
 
   Name: Padma
   Site: https://github.com/padma007
@@ -1078,7 +1078,7 @@
 
   Name: Julian Astri
   Site: https://github.com/jastri
-
+  
 
   Name: Bill Bowles
   Site: https://github.com/mynameisbill
@@ -1086,7 +1086,7 @@
 
   Name: Tiffany
   Site: https://github.com/tiffmarie
-
+  
 
   Name: Craig Steinberger
   Site: https://github.com/cjs
@@ -1110,7 +1110,7 @@
 
   Name: Annie Herlitz
   Site: https://github.com/annieherlitz
-
+  
 
   Name: Nicole Sanchez
   Site: https://github.com/nmsanchez
@@ -1158,7 +1158,7 @@
 
   Name: Brooke Roundy
   Site: https://github.com/brookienoodle
-
+  
 
   Name: Jamie Kite
   Site: https://github.com/jgkite
@@ -1198,7 +1198,7 @@
 
   Name: Carolyn Shin
   Site: https://github.com/carolynshin
-
+  
 
   Name: Vitor Monteiro
   Site: https://github.com/bitoiu
@@ -1206,7 +1206,7 @@
 
   Name: Katelyn Bryant
   Site: https://github.com/katelynbryant
-  Location: San Francisco
+  Location: San Francisco 
 
   Name: Bianca Escalante
   Site: https://github.com/bescalante
@@ -1214,23 +1214,23 @@
 
   Name: Christopher Pirigyi
   Site: https://github.com/cpirigyi
-
+  
 
   Name: Jonah Berquist
   Site: https://github.com/jonahberquist
-
+  
 
   Name: Cory Vander Jagt
   Site: https://github.com/coryvj
   Location: San Francisco
 
-
+  
   Site: https://github.com/MaryWheeler
+  
 
-
-
+  Name: Zack Kluczenko
   Site: https://github.com/kluczenk
-
+  
 
   Name: Kim Sekulich
   Site: https://github.com/ksekulio
@@ -1240,17 +1240,18 @@
   Site: https://github.com/dq-turtle
   Location: San Francisco
 
-
+  
   Site: https://github.com/kjnovak
-
+  
 
   Name: courtland
   Site: https://github.com/courtlandia
+  
 
-
-
+  
   Site: https://github.com/mendyslaton
-
+  
 
   Name: Dan Wallace
   Site: https://github.com/dewallace
+  

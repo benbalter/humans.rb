@@ -30,7 +30,8 @@ class HumansRb
     string = string.force_encoding("UTF-8")
     string = string.encode("UTF-8", :invalid => :replace, :replace => "")
     string = string.gsub(/^\uFEFF/, "")
-    string = string.gsub(/\n{3,}/, "\n\n")
+    string = string.gsub(/\n+ +\n{2,}/, "\n\n")
+    string = string.strip
     string << "\n"
   end
 end
